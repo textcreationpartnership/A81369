@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The desires, and resolutions of the club-men of the counties of Dorset and Wilts. With the articles of their covenant, and certaine directions for the present behaviour, made, and agreed on at a meeting of the inhabitants (of the said counties) at Gorehedge-corner, May, 25. 1645. and read at Badburie in Dorsetshire, by Mr. Young a lawyer; where there were present neere 4000 armed, with clubs, swords, bils, pitch-forkes, and other severall weapons, &amp;c. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81369</idno>
+            <idno type="STC">Wing D1180</idno>
+            <idno type="STC">Thomason E292_24</idno>
+            <idno type="STC">ESTC R200151</idno>
+            <idno type="EEBO-CITATION">99860956</idno>
+            <idno type="PROQUEST">99860956</idno>
+            <idno type="VID">113083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81369)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113083)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E292[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The desires, and resolutions of the club-men of the counties of Dorset and Wilts. With the articles of their covenant, and certaine directions for the present behaviour, made, and agreed on at a meeting of the inhabitants (of the said counties) at Gorehedge-corner, May, 25. 1645. and read at Badburie in Dorsetshire, by Mr. Young a lawyer; where there were present neere 4000 armed, with clubs, swords, bils, pitch-forkes, and other severall weapons, &amp;c. Published according to order.</title>
+                  <author>Young, Mr.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Forcet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Dorset (England) --  History --  Early works to 1800.</term>
+               <term>Wiltshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113083:1" rendition="simple:additions"/>
+            <p>THE Deſires, and Reſolutions OF THE CLVB-MEN OF THE COUNTIES OF <hi>Dorſet</hi> and <hi>Wilts.</hi>
+            </p>
+            <p>WITH The Articles of their Covenant, and certaine Directions for the preſent behaviour, made, and agreed on at a Meeting of the Inhabitants (of the ſaid Counties) at <hi>Gorehedge</hi>-corner, <hi>May,</hi> 25. 1645.</p>
+            <p>AND Read at <hi>Badburie</hi> in <hi>Dorſetſhire,</hi> by M<hi rend="sup">r</hi>. YOUNG a Lawyer; where there were preſent neere 4000 armed, with Clubs, Swords, Bils, Pitch-forkes, and other ſeverall weapons, &amp;c.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON, Printed by THO. FORCET, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113083:2"/>
+            <pb n="1" facs="tcp:113083:2"/>
+            <head>The Deſires and Reſolutions of the CLUB-MEN, of the Counties of <hi>Dorſet</hi> and <hi>Wilts.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee the miſerable Inhabi<g ref="char:EOLhyphen"/>tants of the ſaid Coun<g ref="char:EOLhyphen"/>ties being too too deep<g ref="char:EOLhyphen"/>ly touched with the ap<g ref="char:EOLhyphen"/>prehenſion, and ſenſe of our paſt, and preſent ſuf<g ref="char:EOLhyphen"/>ferings, occaſioned only by theſe Civill, and unnaturall Warrs with<g ref="char:EOLhyphen"/>in this Kingdome: And finding by ſad ex<g ref="char:EOLhyphen"/>perience, that by meanes thereof, the true worſhip of Almighty God, and our Religi<g ref="char:EOLhyphen"/>on are almoſt forgotten, and that our anci<g ref="char:EOLhyphen"/>ent Lawes, and Liberties, contrary to the great Charter of <hi>England,</hi> and the Petition of Right, are altogether ſwallowed up in the Arbitrary power of the Sword. And
+<pb n="2" facs="tcp:113083:3"/>fore-ſeeing that Deſtruction; F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mine, and ut<g ref="char:EOLhyphen"/>ter Deſolation will inevitably fall upon us, our wives, and children (unleſſe God of his infinite mercy ſhall upon our true humilia<g ref="char:EOLhyphen"/>tion bee graciouſly pleaſed to impoſe a pe<g ref="char:EOLhyphen"/>riod to theſe ſad diſtractions) are unanimouſ<g ref="char:EOLhyphen"/>ly reſolved, wherein we deſire the concur<g ref="char:EOLhyphen"/>rence of all the Garriſons of this County to joyne in Petitioning His Majeſtie, and the two Houſes of Parliament for an happy Peace, and accommodation of the preſent differences, without further effuſion of Chri<g ref="char:EOLhyphen"/>ſtian bloud. Without which accommodati<g ref="char:EOLhyphen"/>on, we cannot expect the enjoyment of our Religion, Liberties, or properties. And leſt any falſe aſperſion of indevouring, or deſiring to introduce Popery, or Arbitrary govern<g ref="char:EOLhyphen"/>ment ſhould be caſt on all, or any of us, we do al with one heart &amp; mind, profeſſe before God, and the world, our ſelves enemies to both. And that we ayme at nothing herein, ſave only the glory of God, and the good of the Church and State. And for that purpoſe we do here declare, that we really intend to
+<pb n="3" facs="tcp:113083:3"/>the utmoſt hazard of our lives, and fortunes.</p>
+            <div type="list">
+               <p>
+                  <hi>Firſt, To maintaine, and defend the true re<g ref="char:EOLhyphen"/>formed Protestant Religion, and the Inheritance of the Crowne.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, To joyne with, and aſſiſt one another in the mutuall defence of our Liberties, and Pro<g ref="char:EOLhyphen"/>perties againſt all Plunderers, and all other un<g ref="char:EOLhyphen"/>lawfull violence whatſoever.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, We doe hereby reſolve, and faith<g ref="char:EOLhyphen"/>fully promiſe each to other, that if any perſon or perſons whatſoever, who ſhall concurre with, and aſſiſt us in theſe our Reſolutions, happen to ſuffer in his perſon or eſtate in the execution of the pre<g ref="char:EOLhyphen"/>miſes, that ſhall be accounted as the ſuffering of the generality, and reparation ſhall be made to the party ſuffering, according to his dammages; and in caſe loſſe of life, proviſion ſhall be made for his wife and children, and that at the Countreys charge.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly, We doe hereby declare all ſuch un<g ref="char:EOLhyphen"/>worthy of our aſſiſtance, as ſhall refuſe to joyne with us in the proſecution of theſe our Juſt in<g ref="char:EOLhyphen"/>tentions</hi>
+               </p>
+            </div>
+         </div>
+         <div type="document">
+            <pb n="4" facs="tcp:113083:4"/>
+            <head>
+               <hi>Certaine Directions for preſent behaviour,</hi> made, and agreed on at a meeting of the Inha<g ref="char:EOLhyphen"/>bitants of <hi>Dorſet,</hi> and <hi>Wilts</hi> at <hi>Gore-hedge-corner.</hi> May <hi>25. 1645.</hi>
+            </head>
+            <p>WHEREAS by the Articles of our Aſſoci<g ref="char:EOLhyphen"/>ation, we challenge unto our ſelves no other freedome for the preſent from the burden of warres, then to preſerve our ſelves from Plunder, and all o<g ref="char:EOLhyphen"/>ther unlawfull violence: It is therefore adviſed by the generality, that untill ſuch time as we receive an<g ref="char:EOLhyphen"/>ſwer to our Petitions from His Majeſtie, and the Houſes of Parliament. <hi>Firſt,</hi>
+            </p>
+            <div type="list">
+               <p n="1">1 That every Towne, Tything, and Pariſh, and great Hamlet, make preſent choice of <hi>Three,</hi> or more, of the ableſt men for wiſdome, valour, and eſtate, in<g ref="char:EOLhyphen"/>habitants of the ſame, unto whom at all times they may repaire for aſſiſtance, and direction.</p>
+               <p n="2">2 That the Conſtables, Tythingmen, or any o<g ref="char:EOLhyphen"/>ther Officers of the Towne, Tything, Pariſh or Li<g ref="char:EOLhyphen"/>berty, in purſuance of the Statute in that caſe provi<g ref="char:EOLhyphen"/>ded, ſet a conſtant watch of two men, at the leaſt, e<g ref="char:EOLhyphen"/>very night wel armed, and by day alſo if need require: And the number of the Watch men to be encreaſed according to the direction of the ſaid able men, and Officers.</p>
+               <p n="3">3 That the Watchmen be charged not to ſtop or examine any Souldier in his march, nor any other Paſſenger that paſſeth peaceably, but if they bee friendly ſpoken unto by the Paſſenger, to returne a friendly anſwer to him againe, to encourage him in his peaceable behaviour.</p>
+               <pb n="5" facs="tcp:113083:4"/>
+               <p n="4">4 That the Watchmen keepe walking in their Precincts, in as much ſecrecie as conveniently they may, to avoid a ſudden ſurpriſall; and as ſoone as they, or either of them deſcrie any violence offered to any perſon, houſe or goods, (if they are not of ſuf<g ref="char:EOLhyphen"/>ficient ſtrength themſelves to ſuppreſſe or ſtop the ſaid violence) then one of them preſently repairing to one or more of the ſaid able men, by his or their ad<g ref="char:EOLhyphen"/>viſe, to raiſe the Pariſh, Town, or Hamlet into Armes to aſſiſt the diſtreſſed, and the other Watchman with all ſpeed to repaire to the next neighbouring Watch or Watches, if need ſo require, and there in like manner raiſing the ſame into Armes. To bring pre<g ref="char:EOLhyphen"/>ſently with him halfe of the men there Armed to re<g ref="char:EOLhyphen"/>leeve the diſtreſſed, the other halfe to remaine there ready Armed in their own Precincts, to protect the ſame, and apprehend the Plunderers in their retreat.</p>
+               <p n="5">5 That all ſuch as pretend themſelves to be Soul<g ref="char:EOLhyphen"/>diers, and are taken Plundring, or doing any other un<g ref="char:EOLhyphen"/>lawfull violence, be preſently diſ-armed, and after ex<g ref="char:EOLhyphen"/>amination, (having confeſt unto which Army hee doth belong) to be ſafely guarded thither, (together with ſufficient witneſſe to proove the offence) from Tithing to Tithing, untill they bee brought to the next Garriſon belonging to the ſaid Army, and there to be delivered unto the Commander in Chiefe, with tender of witneſſes to proove the crime. But in caſe they ſay, they belong to an Army which doth Quarter neere the place where the offence was comitted, then in the like manner, to convey them to the Comman<g ref="char:EOLhyphen"/>der in chiefe of the ſaid Army.</p>
+               <p n="6">6 That to avoid falſe Alarmes, no men riſe into Armes, but ſuch as are ſo ſummoned by the Watch<g ref="char:EOLhyphen"/>men,
+<pb n="6" facs="tcp:113083:5"/>unleſſe they ſee apparent violence, or in caſe the watchmen be defective, or ſurpriſed, or to be cal<g ref="char:EOLhyphen"/>led by a very probable out cry.</p>
+               <p n="7">7 That all men furniſh themſelves with as much, and good Armes, Weapons. and Ammunition, as they can procure, and the rich out of a good conſci<g ref="char:EOLhyphen"/>ence to relieve the poore herein, as alſo in their la<g ref="char:EOLhyphen"/>bours of Watching, and other aſſiſtance, in ſome proportionable meaſure.</p>
+               <p n="8">8 That the Contribution-money, and all proviſi<g ref="char:EOLhyphen"/>on, and neceſſary maintenance for the Armies, if it be demanded by a lawfull Warrant, directed to the Officer of the place, be not denyed, but every man as he is able, in ſome reaſonable proportion forthwith to contribute; and for thoſe that are truly unable, certificate of their inability to bee made by the ſaid Officer, with advice of the ſaid choſen able men of the place, unto their Commander in Chiefe, from whom the Warrant iſſued, with Petition for reſpite, and mitigation of the proportion of the ſaid War<g ref="char:EOLhyphen"/>rant required, untill they ſhall be better enabled.</p>
+               <p n="9">9 If Quarter bee demanded according to Order Martiall, the Souldier to be friendly entertained, be<g ref="char:EOLhyphen"/>having himſelfe fairely in his Quarters. But if they Plunder, or offer any other violence, then to bee re<g ref="char:EOLhyphen"/>ſtrained, and delivered unto his Commander in chief to be by him corrected.</p>
+            </div>
+         </div>
+         <div type="notice">
+            <p>If any inconvenience ſhall be found to enſue on the obſervation of theſe Directions. It is deſired to be made known at the next generall <hi>Randevouz,</hi> that upon con<g ref="char:EOLhyphen"/>ſultation had, it may be amended.</p>
+            <closer>
+               <signed>Vera Copia.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
